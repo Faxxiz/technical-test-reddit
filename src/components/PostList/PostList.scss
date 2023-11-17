@@ -1,0 +1,25 @@
+.post-list-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.loading {
+  text-align: center;
+  font-style: italic;
+  color: #999;
+}
+
+.go-back-button {
+  padding: 10px 20px;
+  background-color: #0079d3;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.go-back-button:hover {
+  background-color: #005f90;
+}
