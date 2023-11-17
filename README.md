@@ -20,3 +20,6 @@ Project Details
 
 6. Styling
    Styled the application using SCSS to enhance maintainability, readability, and modularity of the stylesheets. SCSS was chosen for its features like nesting, variables, and mixins, allowing for a more organized and scalable styling approach. Even though it didn't require its features for this sample project
+
+To run the project:
+npm install && npm run start
